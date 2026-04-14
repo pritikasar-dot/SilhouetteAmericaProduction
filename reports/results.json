@@ -1,0 +1,76 @@
+{
+  "project": "Production - Silhouette America Automation",
+  "createdBy": "Priti Kasar",
+  "date": "4/14/2026, 4:50:33 PM",
+  "summary": {
+    "total": 9,
+    "passed": 9,
+    "failed": 0,
+    "skipped": 0
+  },
+  "tests": [
+    {
+      "name": "Validate CMS page load time",
+      "status": "passed",
+      "duration": 8565,
+      "retry": 0,
+      "email": "-"
+    },
+    {
+      "name": "Add first bundle product to cart",
+      "status": "passed",
+      "duration": 11572,
+      "retry": 0,
+      "email": "-"
+    },
+    {
+      "name": "Cookie Consent",
+      "status": "passed",
+      "duration": 5286,
+      "retry": 0,
+      "email": "-"
+    },
+    {
+      "name": "Empty cart flow (robust)",
+      "status": "passed",
+      "duration": 25247,
+      "retry": 0,
+      "email": "-"
+    },
+    {
+      "name": "Invalid Search term",
+      "status": "passed",
+      "duration": 6889,
+      "retry": 0,
+      "email": "-"
+    },
+    {
+      "name": "Register New User ",
+      "status": "passed",
+      "duration": 7977,
+      "retry": 0,
+      "email": "test+1776165687155@gmail.com"
+    },
+    {
+      "name": "User should login successfully",
+      "status": "passed",
+      "duration": 4909,
+      "retry": 0,
+      "email": "-"
+    },
+    {
+      "name": "Valid Search Result",
+      "status": "passed",
+      "duration": 9905,
+      "retry": 0,
+      "email": "-"
+    },
+    {
+      "name": "Checkout flow ",
+      "status": "passed",
+      "duration": 72353,
+      "retry": 0,
+      "email": "-"
+    }
+  ]
+}
